@@ -1,5 +1,5 @@
 # CyberSecurityAndML
-机器学习安全相关
+机器学习和安全相关的一些小东西
 
 # ML Model Watermarking
 https://github.com/SAP/ml-model-watermarking
