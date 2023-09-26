@@ -1,0 +1,8 @@
+{
+    "project_name": "Lambda runtime",
+    "repo_user": "MyGithubUsername",
+    "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "class_name": "{{ cookiecutter.project_name | title | replace(' ', '') }}",
+    "description": "A short description of the project.",
+    "open_source_license": ["MIT", "BSD-3-Clause", "No license file"]
+}
